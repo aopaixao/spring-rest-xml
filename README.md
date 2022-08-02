@@ -16,6 +16,7 @@ $ mvnw spring-boot:run
 ## Enviando um documento XML para a API
 
 ### Endpoint: /xml-rest/cd
+### Método HTTP: POST
 
 ```bash
 # Exemplo de XML
